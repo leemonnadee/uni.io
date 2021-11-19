@@ -14,8 +14,7 @@ main div.main_wrap{
   align-items: center;
   justify-content: center;
 }
-
-/* main div.main_wrap p{
+ main div.main_wrap p{
   background-image: url("./WebSite1/euni.gif");
   background-repeat: no-repeat;
   background-position: center;
@@ -29,7 +28,7 @@ main div.main_wrap{
   word-break: break-all;
   font-family: poppins;
   font-weight: bold;
-} */
+} 
 .box{
   position: absolute;
   height: 345px;
