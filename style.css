@@ -66,6 +66,7 @@ main div.main_wrap2{
    align-items: center;
    justify-content: center;
    background-color: rgba(29, 2, 2,0.9);
+     visibility:hidden;
  }
 
 
