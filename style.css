@@ -51,7 +51,7 @@ main div.main_wrap .a{
   background-image: url("./WebSite1/euni.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size:150%;
+  background-size:100%;
   -webkit-text-fill-color: rgba(255,255,255,0);
   -webkit-background-clip: text;
   font-size: 8px;
