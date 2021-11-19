@@ -60,7 +60,6 @@ main div.main_wrap .a{
   max-height: 100vh;
   word-break: break-all;
   font-family: poppins;
-  animation: anim 20s infinite;
 
 }
 .sound{
@@ -84,22 +83,6 @@ background-color: rgba(236, 236, 236, 0.3);
 }
 
 
-@keyframes anim{
-  50%{
-    
-    
-    font-size: 80px;
-    transition: ease-in-out 5s;
-   
-  }
-  0%{
-    
-    
-    font-size: 8px;
-    transition: ease-in-out 2s;
-   
-  }
-}
 
 
 
