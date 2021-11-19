@@ -59,9 +59,12 @@ main div.main_wrap2{
     font-family: poppins;
 
   }
-  audio{
-    visibility: hidden;
-  }
+ .sound{
+   background-color: white;
+   position: absolute;
+   top: 50%;
+   visibility: hidden;
+ }
 
 
 
