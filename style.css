@@ -59,6 +59,9 @@ main div.main_wrap2{
     font-family: poppins;
 
   }
+  audio{
+    visibility: hidden;
+  }
 
 
 
