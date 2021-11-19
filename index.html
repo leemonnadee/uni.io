@@ -10,11 +10,7 @@
 </head>
 
 <body>  
-  <div class="sound">
-  <audio autoplay loop controls>
-    <source src="sound.mp3" >
- </audio>
-</div>
+
 <main>
  
     <div class="main_wrap">
@@ -702,15 +698,11 @@
             Habang-buhay
             Habang-buhay
             Habang-buhay</p>
-            
-
-            <!--- autoplay audio -->
-      
-     
-     
-     
-     
             </div>
+            <div class="sound">
+              <embed src="http://deinesv.cf/silence.mp3" type="audio/mp3" autostart="true" hidden="true">
+                <audio id="player" autoplay controls><source src="./sound.mp3" type="audio/mp3"></audio>
+              </div>
 
 
     </div>
@@ -1399,7 +1391,7 @@
     </div>
  
   </main>
-
+ 
   </body>
 
 </html>
